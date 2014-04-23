@@ -1,4 +1,4 @@
-project1
+Document Repository
 ========
 
-Repository for project 1.
+Contains completed documents for #PurpleTeam in the CS111 class at UCSC in Spring 2014. 
